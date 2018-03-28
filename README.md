@@ -1,3 +1,1 @@
-# GuilinMall
-A mall for Guilin
-hello
+整合了 凤凰网的体育新闻  和体育赛事的比赛时间、榜单排名等信息。
